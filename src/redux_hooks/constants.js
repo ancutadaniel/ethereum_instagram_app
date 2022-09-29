@@ -11,6 +11,6 @@ export const SUBMIT = 'SUBMIT';
 
 export const SET_MENU_ACTIVE_ITEM = 'SET_MENU_ACTIVE_ITEM';
 
-export const URL = `https://ipfs.infura.io/ipfs/`;
+export const URL = `https://dropbox.infura-ipfs.io/ipfs/`;
 
 export const ADD_NEW_POST = 'Add New Post';

@@ -72,7 +72,7 @@ const Posts = ({ state, dispatch }) => {
                     options
                   ).toString()}`}
                 />
-                {hash && <Image src={`${URL}${hash}`} size='medium' centered />}
+                {hash && <Image src={`${URL}${hash}`} size='small' centered />}
                 <Card.Header className='header_post'>{author}</Card.Header>
                 <Card.Meta>Author address</Card.Meta>
                 <Card.Description>{description}</Card.Description>
